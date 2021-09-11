@@ -91,14 +91,15 @@ background-color: #E8F6EF;
 .bangs2 {
   width: 25%;
   float: right;
- padding: 0 20px 0 20px;
+  padding: 0 30px 0 0;
 }
 
 .bangs1 {
   width: 25%;
   float: right;
-padding: 0 20px 0 20px;
+padding: 0 30px 0 30px;
 }
+
 
 .contact-me {
   margin-bottom: 70px;
